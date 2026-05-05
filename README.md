@@ -1,6 +1,7 @@
 # ASL-Real-Time-Translator
 Real-time American Sign Language detection using MediaPipe and TensorFlow
 # 🤟 Real-Time American Sign Language (ASL) Recognition
+<video src="Demo_Live.mp4" controls="controls" width="100%"></video>
 
 Welcome to this real-time American Sign Language (ASL) detection and translation project. This model uses landmark extraction via **MediaPipe** combined with a neural network developed using **TensorFlow/Keras**.
 
