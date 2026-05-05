@@ -35,7 +35,7 @@ To test the live translation using your camera:
 > **⚠️ Warning regarding Google Colab:**
 > Opening the webcam via the OpenCV library (`cv2.VideoCapture`) does not work natively on Google Colab. **Local execution is strictly required** to run the real-time deployment cell.
 
-
+📺 Live Demo:
 https://github.com/user-attachments/assets/a02d2053-81b2-478e-a16a-fb532f153e22
 
 
