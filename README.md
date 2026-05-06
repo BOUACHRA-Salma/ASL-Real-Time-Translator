@@ -20,7 +20,11 @@ To ensure the code runs smoothly and to avoid compatibility errors when loading 
 > **💡 Note:** The default versions installed on cloud environments like Google Colab may differ from the required ones and cause errors during model importation.
 
 ---
-
+### 📁 Data Structure
+- `ASL.ipynb`: Main notebook for training and deployment.
+- `asl_dataset_images.csv`: Metadata file containing image paths and corresponding labels used for training.
+- `modele_asl_final.keras`: The pre-trained deep learning model.
+  
 ## 🚀 Testing the Project
 
 ### Local Execution (Jupyter Notebook)
